@@ -2,10 +2,12 @@
 .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
   background-color: #FB8849;
   color: #000000;
+  border-radius: 10px;
 }
 
 /* Styling for the chat bubble content when it's from the user */
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
   background-color: #377A89;
   color: #000000;
+  border-radius: 10px;
 }
